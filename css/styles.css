@@ -8,15 +8,18 @@ h1 {
 p {
     color: white;
 }
-.tuotteet {
+div {
     border:2px;
     border-style: dotted;
     width: 100px;
     height: 100px
+    color: white;
 }
-ol.a {
+ol {
     list-style-type: lower-alpha;
+    color: white;
 }
-ul.a {
+ul {
     list-style-type: square;
+    color: white;
 }
