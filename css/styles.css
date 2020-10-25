@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-size: 20px;
+}
+p {
+    color: white;
+}
+.tuotteet {
+    border:2px;
+    border-style: dotted;
+    width: 100px;
+    height: 100px
+}
+ol.a {
+    list-style-type: lower-alpha;
+}
+ul.a {
+    list-style-type: square;
+}
