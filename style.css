@@ -37,10 +37,12 @@ figure {
     margin:35px;
 } 
 img {
-    margin: 35px;
+    margin: 60px;
 }
 label {
     margin: 40px;
     background-color: #ffe6ff;
+    opacity: 0.8;
     color: black;
+    margin-bottom: 25px;
 }
