@@ -44,3 +44,7 @@ label {
     background-color: #ffe6ff;
     color: black;
 }
+progress {
+    background-color: white;
+    color: #ffe6ff
+}
