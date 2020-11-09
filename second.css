@@ -36,8 +36,12 @@ h2 {
 figure { 
     margin:35px;
 } 
+figcaption {
+    margin:35;
+    color: white;
+}   
 img {
-    margin: 35px;
+    margin: 50px;
 }
 label {
     margin: 40px;
