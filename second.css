@@ -45,10 +45,12 @@ img {
 }
 label {
     margin: 40px;
-    background-color: #ffe6ff;
     color: black;
 }
 progress {
     background-color: white;
     color: #ffe6ff
 }
+div {
+    background-color: #ffe6e6;
+   } 
