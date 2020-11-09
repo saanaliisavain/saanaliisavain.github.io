@@ -8,12 +8,12 @@ h1 {
     font-size: 20px;
     margin: 30px
 }
-div {
+nav {
     border: 2px dotted white;
     padding: 10px 10px;
     border-radius: 15px;
-    color: black;
-    background-color: #ebe535;
+    color: #ffffe6;
+    background-color: #004d1a;
     margin: 30px;
     margin-bottom: 25px;
 }    
