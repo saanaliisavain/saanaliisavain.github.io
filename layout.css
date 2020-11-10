@@ -4,17 +4,18 @@ body {
     margin-right: auto;
 }
 #header {
-    background-color: #330033;
+    background-color: black;
     color: white;
     text-align: center;
 
 #nav {
     border: 2px green;
-    background-color: yellow;     
+    background-color: yellow;
+    color: black;
 } 
     
 #section {
-    border: 2px yellow;
+    border: 2px blue;
     background-color: black;
     color: yellow;
 } 
