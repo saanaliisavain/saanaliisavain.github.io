@@ -8,7 +8,7 @@ div {
     background-color: #009999;
 }
 
-nav {
+#nav {
     background-color: #99ff99;
     border: 2px black;
     display: block;
@@ -16,10 +16,17 @@ nav {
     padding: 5px;
     list-style-type: none;
 }    
-section {
+#section {
     border: 2px yellow;
+    padding: 5px;
+    border:2px #ffb3ff;
 } 
-
+#aside {
+    background-color: #e6b3ff;
+}
+#article {
+    background-color: #ffffb3;
+}
 #footer {
     border: 2px black;
     background-color: #4d004d;
