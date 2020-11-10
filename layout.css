@@ -8,11 +8,12 @@ body {
     color: white;
     text-align: center;
 
-#nav {
+.nav {
     border: 2px green;
     background-color: yellow;
     color: black;
 } 
+ 
     
 #section {
     border: 2px blue;
