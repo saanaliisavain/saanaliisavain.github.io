@@ -3,12 +3,12 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-#header {
+header {
     background-color: black;
     color: white;
     text-align: center;
 
-.nav {
+nav {
     border: 2px green;
     background-color: yellow;
     color: black;
@@ -17,7 +17,7 @@ body {
 } 
  
     
-#section {
+section {
     border: 2px blue;
     background-color: black;
     color: yellow;
