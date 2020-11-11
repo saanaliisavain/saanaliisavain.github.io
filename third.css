@@ -24,7 +24,7 @@
 }
 #topmenu li a {
     display: inline-block;
-    color: yellow;
+    color: black;
     text-align: center;
     padding: 15px;
 }
@@ -35,14 +35,18 @@
   color: black;
   
 }
-#clearfix: {
-    overflow:auto;
+#clearfix:{
+    overflow: auto;
+    content: "";
+    clear: both;
+    display: table;
 }
 #sidemenu {
     width: 20%;
-    height: 80%;
+    height: 50%;
     padding: 2px;
-    background-color: #ffe6e6;
+    background-color: #ebe535;
+    border-radius: 15px;
     float: left;
 }
 #sidemenu ul {
@@ -70,7 +74,15 @@ footer {
     text-align: center;
     background-color: #4d004d;
     color: #ffffcc;
-
+    align-self: end;
+    
+    
+}
+#infot {
+    text-align: center;
+    margin-top: 5px;
+    
+}
 body {
     margin: 40px;
     float: left;
