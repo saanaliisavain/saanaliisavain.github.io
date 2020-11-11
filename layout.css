@@ -7,7 +7,7 @@
     border-radius: 15px;
 }
 div {
-    
+    background-color: #e6ffff;
 }
 
 #nav {
@@ -20,7 +20,7 @@ div {
     clear: both;
 }    
 #section {
-    width: 60%;
+    width: 50%;
     background-color: #99ffeb;
     height: 232px;
     padding: 5px;
@@ -29,24 +29,29 @@ div {
 #aside {
     width: 38%;
     background-color: #e6b3ff;
-    float: right;
+    float: left;
+    padding: 10px;
 
 }
 #article {
     width: 38%;
     height: 30%;
+    padding: 10px;
     background-color: #ffffb3;
-    float: right;
+    float: left;
 }
 #footer {
+    width: 90%;
     padding: 15px;
     border: 2px black;
     background-color: #4d004d;
     color: #ffffcc;
     clear: both;
+    border-radius: 15px;
 }
 body {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    background-color: #e6ffff;
 }
