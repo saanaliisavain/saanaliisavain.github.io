@@ -18,14 +18,16 @@
     background-color: #ffe6e6;
     list-style-type: none;
     border-radius: 15px;
+    text-align: center;
 }
 #topmenu li {
-    float:left;
+    float: right;
 }
 #topmenu li a {
     display: inline-block;
-    color: black;
-    text-align: center;
+    
+    color: white;
+    font-weight: bold;
     padding: 15px;
 }
 #topmenu a:hover {
@@ -48,6 +50,7 @@
     background-color: #ebe535;
     border-radius: 15px;
     float: left;
+    font-weight: bold;
 }
 #sidemenu ul {
     list-style-type: none;
@@ -75,8 +78,6 @@ footer {
     background-color: #4d004d;
     color: #ffffcc;
     align-self: end;
-    
-    
 }
 #infot {
     text-align: center;
