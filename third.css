@@ -37,12 +37,6 @@
   color: black;
   
 }
-#clearfix:{
-    overflow: auto;
-    content: "";
-    clear: both;
-    display: table;
-}
 #sidemenu {
     width: 20%;
     height: 50%;
