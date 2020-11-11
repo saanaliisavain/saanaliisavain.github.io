@@ -65,19 +65,13 @@
     background-color: #ffffb3;
 }
 footer {
+    position: fixed;
     width: 80%;
-    heigth: 10&;
     padding: 10px;
     text-align: center;
     background-color: #4d004d;
     color: #ffffcc;
-    
-}
-#infot {
-    text-align: center;
-    margin-top: 5px;
-    
-}
+
 body {
     margin: 40px;
     float: left;
