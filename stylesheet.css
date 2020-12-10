@@ -1,10 +1,15 @@
 
 
 body {
-  	padding-top: 3rem;
-  	padding-bottom: 3rem;
+
   	color: black;
 	background-image: url(taustakuva.jpg);
+	font-family: helvetica, sans-serif, arial;
+	
+}
+p {
+
+  	color: black;
 	font-family: helvetica, sans-serif, arial;
 	
 }
